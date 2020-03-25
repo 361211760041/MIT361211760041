@@ -67,16 +67,5 @@ public class Patient {
     }
     //toString
 
-    @Override
-    public String toString() {
-        return "Patient{" +
-                "p_id=" + p_id +
-                ", p_name='" + p_name + '\'' +
-                ", p_gender='" + p_gender + '\'' +
-                ", p_age=" + p_age +
-                ", p_address='" + p_address + '\'' +
-                ", p_blood_result='" + p_blood_result + '\'' +
-                '}';
-    }
 }//
 
